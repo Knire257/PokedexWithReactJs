@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+#Pokedex with ReactJs and PokeAPI
+All querys used in this propject are fetched from https://pokeapi.co/. The point of this whol prject was o get a hold of the use of ReactJs framework to process and build app's frontend 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
