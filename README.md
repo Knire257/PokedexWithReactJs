@@ -1,5 +1,5 @@
 # Pokedex with ReactJs and PokeAPI
-All querys used in this propject are fetched from https://pokeapi.co/. The point of this whol prject was o get a grip of the use of ReactJs framework to process and build app's frontend 
+All querys used in this project are fetched from https://pokeapi.co/. The point of this whole project was to get a basic grip of the use of ReactJs framework to process and build app's frontend logic and presentation.
 
 ## Getting Started with Create React App
 
